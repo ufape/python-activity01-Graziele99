@@ -28,7 +28,7 @@ O maior número é: 106
 
 
 def main():
-      a = int(input("Digite o valor A: "))        
+    a = int(input("Digite o valor A: "))        
     b = int(input("Digite o valor B: "))
     c = int(input("Digite o valor C: "))
     
