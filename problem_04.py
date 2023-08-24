@@ -63,11 +63,11 @@ Exemplo:
 
 def main():
     PI = 3.14159
-    raio = float(input( " Digite o valor de raio: "))
+    raio = float(input("Digite o valor do raio: "))
   
-    área = PI * (raio**2)
-
-    print(f"Área: {área:.5f}m") 
+    area = PI * (raio ** 2)
+  
+    print(f"Área: {area:.5f}m")
 
 
 if __name__ == '__main__':
